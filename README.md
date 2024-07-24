@@ -1,0 +1,2 @@
+# MusicApp
+JavaScript Frontend Practics
